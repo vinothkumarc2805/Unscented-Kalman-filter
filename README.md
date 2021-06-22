@@ -1,2 +1,2 @@
-# Unsecented-Kalman-filter
-Unsecented Kalman filter
+# Unscented-Kalman-filter
+Unscented Kalman filter
