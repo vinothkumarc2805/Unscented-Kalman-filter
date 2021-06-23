@@ -1,4 +1,3 @@
-/* \author Aaron Brown */
 // Handle logic for creating traffic on highway and animating it
 
 #include "render/render.h"
